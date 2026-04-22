@@ -16,8 +16,10 @@ const Hook = () => {
 
   return (
     <div>
-      <button onClick={gmhandle}>goodmornig</button>
-      <button onClick={gnhandle}>goodnight</button>
+      <button onClick={gmhandle}>click gm</button>
+      <button onClick={gnhandle}>click gn</button>
+
+      <h1>{msg}</h1>
     </div>
   )
 }
