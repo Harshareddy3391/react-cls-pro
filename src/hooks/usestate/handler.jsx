@@ -17,6 +17,8 @@ const Handler = () => {
         <button onClick={updateva.bind(null,"ga")}>ga</button>
         <button onClick={updateva.bind(null,"ge")}>ge</button>
         <button onClick={updateva.bind(null,"gn")}>gn</button>
+        <button onClick={()=>setmsg("hello single handler")}>hi</button>
+        
       
     </div>
   )
