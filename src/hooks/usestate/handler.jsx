@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
 const Handler = () => {
-    ler [msg,setmsg]=useState("hello")
+    let [msg,setmsg]=useState("hello")
 
 
     let updateva=(val)=>{
