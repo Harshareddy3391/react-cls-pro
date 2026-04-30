@@ -1,0 +1,28 @@
+/* Global Styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+}
+
+/* Table enhancements */
+.table th {
+  letter-spacing: 0.04em;
+  font-size: 0.9rem;
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+/* Loading state */
+.loading-text {
+  font-size: 1.2rem;
+  color: #6c757d;
+  text-align: center;
+  padding: 2rem 0;
+}

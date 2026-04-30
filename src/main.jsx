@@ -1,5 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
+import './index.css'
+import '../node_modules/bootstrap/dist/css/bootstrap.css'
 //import Emp from './classprops/cls2.jsx'
 //import Hook from './hooks/usestate/usestate'
 //import Handler from './hooks/usestate/handler'
